@@ -1,6 +1,6 @@
 name: BungeeChatFilter
 main : com.minecraftdimensions.bungeechatfilter.Main
 version: ${project.version}b-${build.number}
-author: Bloodsplat, Zedwick
+author: Bloodsplat, Zedwick, Tobias Laundal
 website: https://www.spigotmc.org/resources/bungeechatfilter.20596/
 description: Chat and command filter control for BungeeCord using regex
